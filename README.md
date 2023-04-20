@@ -1,3 +1,4 @@
 # SimpleCourseGradeMap
 Add Students, Remove Students, Modify Student Grades, Print All Students.
-This was created for a Midterm.
+Created using #include <map>
+This was created for a class Midterm.
